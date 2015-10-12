@@ -5,4 +5,8 @@
 
 get_header();
 ?>
-<h1>Wordpress Single Page Boilerplate(Simple)</h1>
+<h1>Increase Women's Blog</h1>
+
+<?php
+
+get_footer();
